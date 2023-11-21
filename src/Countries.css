@@ -5,4 +5,9 @@
     border-radius: 10px;
     text-align:left;
 }
-
+.visited{
+    background-color: cyan;
+}
+.nonvisited{
+    background-color: slateblue;
+}
